@@ -1,5 +1,5 @@
 version: 1.2
 tools:
    - subclass: 666
-     primaryDescriptorPath: /Dockstore.cwl
+     primaryDescriptorPath::::::::::
      name: md5sum
